@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">679428198488-5tq0jgikfok5jbppkic6rgrbra372slq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">679428198488</string>
+    <string name="google_api_key" translatable="false">AIzaSyBIzeLvt0sSyteX20WcSpa8faW_O3uRrHU</string>
+    <string name="google_app_id" translatable="false">1:679428198488:android:e9fb0764d0dc75537cfa2d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBIzeLvt0sSyteX20WcSpa8faW_O3uRrHU</string>
+    <string name="google_storage_bucket" translatable="false">mussapp-d86af.appspot.com</string>
+    <string name="project_id" translatable="false">mussapp-d86af</string>
+</resources>
